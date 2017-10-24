@@ -15,7 +15,7 @@ void pause() {
 }
 
 void main() {
-	char two = '2'; 
+	char two = '2'; //this can also be stored as an int and added to a string
 		cout << "Period " << two << endl;
 		cout << "Hello World!" << endl;
 	pause();
